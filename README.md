@@ -75,6 +75,7 @@ Firmware files are located in the firmware/ directory.
 
 ![PCB](image-1.png)
 
-### Case & Assembly
+### Case
+
 
 ![Case](image-2.png)
