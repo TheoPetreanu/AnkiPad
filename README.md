@@ -1,5 +1,5 @@
 # Theo’s Study Hackpad
-
+This project was funded by a Blueprint (Hack Club) hardware grant, awarded following a design proposal and build journal review.
 ![Exploded View](image-3.png)
 
 ## Inspiration
